@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prak6_3kurs_Vysotskiy</string>
+    <string name="cinema">Кино</string>
+    <string name="cinema2">кинотеатр под рукой</string>
+    <string name="find">Найти фильм</string>
+    <string name="popular">популярные фильмы</string>
+</resources>
